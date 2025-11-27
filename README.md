@@ -1,4 +1,6 @@
-# OAuth
+# GeeID-OAuth
+
+Forked by [https://github.com/iVampireSP/userland]
 
 OAuth 服务器部署
 
